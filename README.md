@@ -1,6 +1,6 @@
 # Thematic Portfolio "Vital Infrastructure"
 
-This repository was created to share our method of weighing the stocks in the thematic portfolio "Vital Infrastructures". 
+This repository was created to share our method of weighting the stocks in the thematic portfolio "Vital Infrastructures". 
 
 The relevant files are:
 - [analysis.ipynb](analysis_concise.ipynb): This is a python notebook where we have intuitively explained our method of weighting stocks in the portfolio and visualised the data. Kindly check this out.
